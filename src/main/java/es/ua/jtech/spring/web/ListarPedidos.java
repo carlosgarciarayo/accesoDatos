@@ -12,8 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
-import es.ua.jtech.spring.Pedido;
-import es.ua.jtech.spring.datos.IPedidosDAO;
+
 
 @WebServlet("/listarPedidos")
 public class ListarPedidos extends HttpServlet {
