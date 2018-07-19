@@ -12,8 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
-//cometnario hola 2
-//comentario 2
 
 @WebServlet("/listarPedidos")
 public class ListarPedidos extends HttpServlet {
