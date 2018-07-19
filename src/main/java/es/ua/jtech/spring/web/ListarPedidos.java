@@ -15,9 +15,9 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
 
 @WebServlet("/listarPedidos")
 public class ListarPedidos extends HttpServlet {
-/// hola que takl
+
     private static final long serialVersionUID = 780361686776789966L;
- //pruena marge
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
