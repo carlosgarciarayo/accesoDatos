@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
-//pongo comentairos desde github
+
 @WebServlet("/listarPedidos")
 public class ListarPedidos extends HttpServlet {
 
